@@ -5,7 +5,7 @@ If you ever need to migrate from Ant to Maven, you can use this program to
 
 ### How to run and test
 #### Prerequisite:
-- [JRE 11](https://www.oracle.com/cis/java/technologies/javase/jdk11-archive-downloads.html)
+- JDK 11
 
 #### Steps:
 1. `./mvnw clean package`
